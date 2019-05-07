@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE configuration  
+	PUBLIC "-//mybatis.org//DTD Config 3.0//EN"  
+	"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<!-- setting  配置  根据需要再加 -->
+	
+	<!-- <mappers>
+		由于是使用springhemybatis整合包进行mapper扫描  这里就不需要配置
+		遵循mapper.xml文件和mapper.Java同名且在一个目录下面
+	</mappers>	 -->
+</configuration>	
